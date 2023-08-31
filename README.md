@@ -10,7 +10,7 @@ A solo project executed in 2 days.No External Libraries has been used.
 
 ## Demo  🎥
 
-- Deployed Link:-
+- Deployed Link:- https://weather-roan-nu.vercel.app/
 
 
 ## Tech Stack 💻
