@@ -60,7 +60,6 @@ A solo project executed in 2 days.No External Libraries has been used.
 ![Logo](https://images2.imgbox.com/d0/b5/pm0yilK4_o.jpg)
 
 
-## Author 😇
 
 
 - 
